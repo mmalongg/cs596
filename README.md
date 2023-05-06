@@ -1,4 +1,4 @@
-# cs596 
+# CS596 
 
 CS 596 IoT Final Project
 Project name: RFID Smart Lock
